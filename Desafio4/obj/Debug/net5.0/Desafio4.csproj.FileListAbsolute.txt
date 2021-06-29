@@ -1,0 +1,16 @@
+C:\Users\EVERALDO\Desktop\Pasta\TESTE_TECNICO\Desafio4\bin\Debug\net5.0\Desafio4.exe
+C:\Users\EVERALDO\Desktop\Pasta\TESTE_TECNICO\Desafio4\bin\Debug\net5.0\Desafio4.deps.json
+C:\Users\EVERALDO\Desktop\Pasta\TESTE_TECNICO\Desafio4\bin\Debug\net5.0\Desafio4.runtimeconfig.json
+C:\Users\EVERALDO\Desktop\Pasta\TESTE_TECNICO\Desafio4\bin\Debug\net5.0\Desafio4.runtimeconfig.dev.json
+C:\Users\EVERALDO\Desktop\Pasta\TESTE_TECNICO\Desafio4\bin\Debug\net5.0\Desafio4.dll
+C:\Users\EVERALDO\Desktop\Pasta\TESTE_TECNICO\Desafio4\bin\Debug\net5.0\ref\Desafio4.dll
+C:\Users\EVERALDO\Desktop\Pasta\TESTE_TECNICO\Desafio4\bin\Debug\net5.0\Desafio4.pdb
+C:\Users\EVERALDO\Desktop\Pasta\TESTE_TECNICO\Desafio4\obj\Debug\net5.0\Desafio4.csprojAssemblyReference.cache
+C:\Users\EVERALDO\Desktop\Pasta\TESTE_TECNICO\Desafio4\obj\Debug\net5.0\Desafio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVERALDO\Desktop\Pasta\TESTE_TECNICO\Desafio4\obj\Debug\net5.0\Desafio4.AssemblyInfoInputs.cache
+C:\Users\EVERALDO\Desktop\Pasta\TESTE_TECNICO\Desafio4\obj\Debug\net5.0\Desafio4.AssemblyInfo.cs
+C:\Users\EVERALDO\Desktop\Pasta\TESTE_TECNICO\Desafio4\obj\Debug\net5.0\Desafio4.csproj.CoreCompileInputs.cache
+C:\Users\EVERALDO\Desktop\Pasta\TESTE_TECNICO\Desafio4\obj\Debug\net5.0\Desafio4.dll
+C:\Users\EVERALDO\Desktop\Pasta\TESTE_TECNICO\Desafio4\obj\Debug\net5.0\ref\Desafio4.dll
+C:\Users\EVERALDO\Desktop\Pasta\TESTE_TECNICO\Desafio4\obj\Debug\net5.0\Desafio4.pdb
+C:\Users\EVERALDO\Desktop\Pasta\TESTE_TECNICO\Desafio4\obj\Debug\net5.0\Desafio4.genruntimeconfig.cache
