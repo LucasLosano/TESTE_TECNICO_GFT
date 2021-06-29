@@ -48,24 +48,24 @@ namespace Desafio2
                 soma += valor;
             }
 
-            double media = soma/ valores.Count;
+            double media = soma / valores.Count;
 
             Console.WriteLine("O maior número é " + maiorNumero);
             Console.WriteLine("O menor número é " + menorNumero);
             Console.WriteLine("A média aritmética é " + media);
-            Console.Write("Quantos números são acima de 10: " + maioresQueDez.Count + " e quais são eles ");
-            printList(maioresQueDez);
-            Console.WriteLine("Quantos números são acima de 50: " + maioresQueCinquenta.Count + " e quais são eles");
-            printList(maioresQueCinquenta);
+            Console.WriteLine("Quantos números são acima de 10: " + maioresQueDez.Count + " e quais são eles " + printList(maioresQueDez));
+            Console.WriteLine("Quantos números são acima de 50: " + maioresQueCinquenta.Count + " e quais são eles " + printList(maioresQueCinquenta));
         }
 
-        public static void printList(List<double> lista)
+        public static string printList(List<double> lista)
         {
+            string retorno = "";
             foreach(var item in lista)
             {
-                Console.Write(item + " ");
+                retorno += item + " ";
             }
-            Console.WriteLine();
+
+            return retorno;
         }
     }
 }

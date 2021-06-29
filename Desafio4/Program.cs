@@ -15,7 +15,9 @@ namespace Desafio4
                 palpite = int.Parse(Console.ReadLine());
 
                 if(palpite == valor)
+                {
                     break;
+                }
 
                 Console.WriteLine("Você errou ... Tente novamente.");
             }

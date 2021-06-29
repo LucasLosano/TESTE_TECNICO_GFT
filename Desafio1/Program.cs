@@ -42,6 +42,7 @@ namespace Desafio1
 
             Caixa caixa = new Caixa();
             int[] quantidades = {3, 7, 1, 12, 5, 1};
+            
             for (int i = 0; i < produtos.Count; i++)
             {
                 string nome = produtos[i].Nome;
